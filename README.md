@@ -1,5 +1,5 @@
 # Madlib Madness
-A collection of different methods for programmatic madlibs. 
+A collection of different methods for programmatic madlibs. Created as a tool for learning python. 
 
 ## Usage
 
